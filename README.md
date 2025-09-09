@@ -31,12 +31,6 @@ This script is particularly useful for research and data analysis projects, incl
    ```
 3. The cleaned datasets will be saved in the `cleaned_data` folder.
 
-## Contribution to Living Stones Foundation
-The **Living Stones Foundation** focuses on data-driven decision-making, including **big data analytics for agricultural trends and donor contributions**. This script plays a crucial role by:
-1. **Ensuring data accuracy** for predictive models in farming and food production.
-2. **Standardizing agricultural datasets** to support effective fundraising and resource allocation.
-3. **Providing structured and clean data** for in-depth analysis using SQL, Python, and Power BI.
-
 ## Issues & Future Enhancements
 - Improve handling of additional agricultural data inconsistencies.
 - Expand crop name normalization for more extensive datasets.
